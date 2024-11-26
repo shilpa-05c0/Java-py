@@ -8,7 +8,7 @@ pipeline {
                 script {
                     // Clone the GitHub repository
                     echo 'Cloning the GitHub repository...'
-                    git 'https://github.com/pallavibamini/Java-py.git'  // Your repository
+                    git 'https://github.com/shilpa-05c0/Java-py.git'  // Your repository
                 }
             }
         }
